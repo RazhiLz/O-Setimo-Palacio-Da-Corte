@@ -1,3 +1,7 @@
+<img src="o palhaço.png" alt="Texto alternativo" width="300"/>
+
+
+
 # 🃏 O Sétimo Palácio da Corte 🃏
 
 Um jogo de cartas estratégico e emocionante!
