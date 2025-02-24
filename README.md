@@ -79,16 +79,3 @@ O jogo é estruturado em componentes React, com a lógica principal gerenciada n
 2.  Execute `npm install` para instalar as dependências
 3.  Execute `npm run dev` para iniciar o servidor de desenvolvimento
 
-## 📝 TODO 📝
-
-*   Adicionar animações
-*   Implementar sistema de pontuação
-*   Melhorar responsividade para dispositivos móveis
-
-## 🤝 Contribuição 🤝
-
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-## 📄 Licença 📄
-
-Este projeto está sob a licença MIT.
