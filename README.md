@@ -1,4 +1,4 @@
-<img src="o palhaço.png" alt="Texto alternativo" width="600"/>
+<img src="o palhaço.png" alt="Texto alternativo" width="900"/>
 
 
 
